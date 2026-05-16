@@ -79,25 +79,25 @@ This system helps students:
 
 ## 🏠 Home Dashboard
 
-ADD_SCREENSHOT_HERE
+<img width="1354" height="626" alt="AI Interview Preparation Project" src="https://github.com/user-attachments/assets/b610134a-2b2e-4ea4-95b3-a537faa151ba" />
 
 ---
 
-## 📊 Dashboard Analytics
+## 📊 Student Profile
 
-ADD_SCREENSHOT_HERE
+<img width="1353" height="609" alt="AI Interview Preparation Project Student Profile" src="https://github.com/user-attachments/assets/d6093093-dc14-41ee-9f5e-fb959703f385" />
 
 ---
 
-## 🧠 AI Roadmap
+## 🧠 Skill Assesment
 
-ADD_SCREENSHOT_HERE
+<img width="1320" height="614" alt="AI Interview Preparation Project Skill Assesment" src="https://github.com/user-attachments/assets/89e1fa9c-20da-4fd9-ae33-2bd05226cbbd" />
 
 ---
 
 ## 💡 Interview Question Generator
 
-ADD_SCREENSHOT_HERE
+<img width="1347" height="598" alt="Interview Question Generator" src="https://github.com/user-attachments/assets/45fb7854-d7c4-4077-98cd-cf2be27fba46" />
 
 ---
 
