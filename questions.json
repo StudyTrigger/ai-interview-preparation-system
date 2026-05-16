@@ -1,0 +1,25 @@
+{
+    "Arrays": [
+        "Find duplicate element in array",
+        "Maximum subarray sum",
+        "Rotate array by k steps",
+        "Two Sum Problem",
+        "Merge two sorted arrays"
+    ],
+
+    "Linked List": [
+        "Reverse Linked List",
+        "Detect cycle in linked list",
+        "Merge two linked lists",
+        "Find middle node",
+        "Add Two Numbers"
+    ],
+
+    "Stack": [
+        "Valid Parentheses",
+        "Implement stack using queue",
+        "Next Greater Element",
+        "Min Stack",
+        "Postfix Evaluation"
+    ]
+}
