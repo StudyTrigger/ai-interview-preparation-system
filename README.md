@@ -307,9 +307,8 @@ This project is licensed under the MIT License.
 🚀 AI/ML Educator | Full Stack Developer | Content Creator
 
 📺 YouTube: Study Trigger  
-💻 GitHub: YOUR_GITHUB_LINK  
-📸 Instagram: YOUR_INSTAGRAM_LINK  
-🔗 LinkedIn: YOUR_LINKEDIN_LINK  
+📸 Instagram: https://www.instagram.com/studytrigger/
+🔗 LinkedIn: https://www.linkedin.com/in/studytrigger/
 
 ---
 
